@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paddeaux (Paddy) and I am currently undertaking a Higher Diploma in Data Analytics. Since my average is a 1.1 (first-class honours) I'll be able to study for another year part time and achieve a MSc in Data Science & Analytics
+- 👋 Hi, I’m @paddeaux (Paddy) and I will be graduating later this year (2021) with a First Class Honours in a Higher Diploma in Data Analytics with Maynooth University. I am hoping to find a role as a Data Analyst to work alongside my part-time studies in the MSc in Data Science and Analytics.
 - 👀 I’m particularly interested in big data, open data, spatial databases, and machine learning.
 - Some of the projects I've worked on include:
   - Analysis of COVID-19 case data by county in Ireland (using R, ggplot, tmap, shiny)
