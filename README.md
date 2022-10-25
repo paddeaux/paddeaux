@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @paddeaux (Paddy) and I am an avid/aspiring Data Scientist. I will graduate from my MSc in Data Science & Analytics this year from Maynooth University, before commencing study in the Science Foundation of Irelands Centre for Research Training in Foundations of Data Science PhD programme - a fully funded 4-year programme.
+- 👋 Hi, I’m @paddeaux (Paddy) and I am a PhD student in the SFI's Centre for Research Training Programme in the Foundations of Data Science @ Maynooth University, Ireland. I previously graduated with MSc in Data Science & Analytics, a Higher Diploma in Data Analytics, and a BSc in Computer Science from Maynooth University
 - 👀 I’m particularly interested in big data, open data, spatial databases, and machine learning.
 - Some of the projects I've worked on include:
+  - Generation of realistic synthetic spatial data for use in classroom assessments (MSc Project)
   - Analysis of COVID-19 case data by county in Ireland (using R, ggplot, tmap, shiny)
   - Analysis of the distribution of Konbini (convenience stores) in Tokyo (using postgreSQL, postGIS, QGIS) 
   - Spatial analysis of the American National Football League (NFL)
-  - MSc Project: Python tool for random generation of realistic spatial data for assessment
 
-- I currently work full-time as a University Tutor at Maynooth's Department of Computer Science
+- I currently work part-time as a computer lab demonstrator with the Maynooth Department of Computer Science and I previously worked full-time as a tutor in the department, overseeing the running of the Computer Science Centre (CSC).
 
 - 📬 Feel free to contact me on:
   - LinkedIn: (https://www.linkedin.com/in/paddy-gorry/)
