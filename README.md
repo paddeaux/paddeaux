@@ -1,6 +1,6 @@
-I am a 2nd Year **PhD Student** in Data Science with the **SFI's Centre for Research Training in Foundations of Data Science**, based in Maynooth University
+I am a 3rd Year **PhD Student** in Data Science with the **SFI's Centre for Research Training in Foundations of Data Science**, based in Maynooth University
 
-My research interests mainly lie in synthetic spatial data, with a focus on it's use in the classroom.
+My research interests primarily lie in the generation of **synthetic spatial data**
 
 Feel free to contact me about any of my work at: **patrick.gorry.2015@mumail.ie**
 
